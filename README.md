@@ -8,4 +8,4 @@ This is the template I developed for my homepage.
 * Go to settings and set Github Pages source as main.
 * Your new site should be ready at `https://username.github.io`
 
-Change all the details from one place: ``_data/data.yml``
+Change all the details from one place: `_config.yml`

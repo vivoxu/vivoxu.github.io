@@ -18,11 +18,12 @@ chrome_mobile_color:
 
 # Personal Information
 name: Vivo Xu
-title: Full Stack Engineer | Entrepreneur
-email: hi@<site-domain>
-#phone
+title: Full Stack Engineer
+slogan: Also an entrepreneur dreaming to change the world
+email: hi @ (the domain name of this site)
+# phone:
 website: 'https://www.vivoxu.com'
-#profile_image: images/profile.jpg
+profile_image: images/profile.jpg
 
 # Social Links
 twitter_username: hivivo

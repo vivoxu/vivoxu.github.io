@@ -1,0 +1,20 @@
+<section class="section">
+  <div class="column">
+    <h2>Contact</h2>
+    <div class="content">
+      <p>Feel free to reach me out via the following methods</p>
+      <p class="more-space">
+        {% if site.email %}
+          <strong>Email:</strong>
+          {{ site.email }}
+          <br/>
+        {% endif %}
+        {% if site.phone %}
+          <strong>Phone:</strong>
+          {{ site.phone }}
+          <br/>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+</section>

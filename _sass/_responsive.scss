@@ -3,6 +3,15 @@
   body{
       padding: 0;
   }
+
+  section {
+    padding: 40px;
+    flex-direction: column;
+  }
+
+  .profile-image {
+    margin-bottom: unset;
+  }
 }
 
 // Small devices (tablets, 768px and up)

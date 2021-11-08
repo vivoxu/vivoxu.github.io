@@ -1,0 +1,16 @@
+<section class="section">
+  <div class="column">
+    <h1>Hello<br/>I'm {{site.name}}</h1>
+    <div class="content">
+      <p>{{site.title}}</p>
+      <p>{{site.slogan}}</p>
+    </div>
+  </div>
+  <div class="column">
+    {% if site.profile_image %}
+      <div class="profile-image">
+        <img class="avatar" src="{{ site.baseurl }}/assets/{{ site.profile_image }}" alt="profile picture of {{site.name}}" />
+      </div>
+    {% endif %}
+  </div>
+</section>
