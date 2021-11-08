@@ -1,0 +1,59 @@
+# Site Settings
+description: Homepage for Vivo Xu
+# favicon file. e.g. images/favicon.ico
+#favicon:
+
+# Change it according to your repository name
+# disabling it if you are using a custom domain
+#baseurl: '/vivoxu'
+
+# only default theme available right now
+theme_color: default
+# color for chrome mobile searchbar or leave empty if you don't want a color
+chrome_mobile_color:
+
+# Google analytics
+#analytics: UA-83987012-1
+
+
+# Personal Information
+name: Vivo Xu
+title: Full Stack Engineer | Entrepreneur
+email: hi@<site-domain>
+#phone
+website: 'https://www.vivoxu.com'
+#profile_image: images/profile.jpg
+
+# Social Links
+twitter_username: hivivo
+github_username: hivivo
+facebook_username: vivoxu
+linkedin_username: vivox
+
+# Additional Links
+links:
+- title: Blog
+  # https://fontawesome.com/icons?d=gallery&s=brands&m=free
+  icon: fab fa-wordpress
+  url: https://vivo.pub
+
+
+
+
+
+
+# Other Settings
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+compress-site: yes
+
+encoding: "utf-8"
+
+# HTML Compression: https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

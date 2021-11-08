@@ -1,0 +1,8 @@
+---
+# Dummy section to make sure Jekyll properly reads the file
+---
+
+@charset "utf-8";
+
+@import "skins/{{ site.theme_color | default: 'default' }}";
+@import "default";
