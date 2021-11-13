@@ -1,7 +1,7 @@
 # Site Settings
 description: Homepage for Vivo Xu
-# favicon file. e.g. images/favicon.ico
-#favicon:
+# favicon file. e.g. /assets/images/favicon.ico
+favicon: /assets/images/favicon.ico
 
 # Change it according to your repository name
 # disabling it if you are using a custom domain

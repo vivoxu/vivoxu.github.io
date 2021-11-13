@@ -11,6 +11,12 @@
 
   .profile-image {
     margin-bottom: unset;
+    text-align: center;
+
+    img {
+      width: 300px;
+      height: 300px;
+    }
   }
 }
 
